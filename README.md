@@ -1,2 +1,2 @@
 # Portfolio-Website
-Editing portfolio in progress .
+Editing Portfolio in progress .
